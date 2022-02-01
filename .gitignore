@@ -9,7 +9,7 @@ __pycache__/
 *.so
 
 # R
-.rhistory
+.Rhistory
 
 # Distribution / packaging
 .Python
